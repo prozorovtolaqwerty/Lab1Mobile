@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="full_name">Anatoly Prozorov</string>
+    <string name="role">Student, group B23–191-3</string>
+    <string name="email">prozorovtolaqwerty@gmail.com</string>
+    <string name="phone">+7 900 000-00-00</string>
+    <string name="avatar_description">Avatar</string>
+</resources>

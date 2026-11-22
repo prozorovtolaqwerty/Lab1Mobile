@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="screen_padding">24dp</dimen>
+    <dimen name="avatar_size">120dp</dimen>
+    <dimen name="text_name">30sp</dimen>
+    <dimen name="text_role">16sp</dimen>
+    <dimen name="text_contact">15sp</dimen>
+    <dimen name="name_margin_top">0dp</dimen>
+    <dimen name="contacts_margin_top">16dp</dimen>
+    <dimen name="contact_item_spacing">8dp</dimen>
+    <dimen name="content_gap">28dp</dimen>
+</resources>
