@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="purple_500">#FF6200EE</color>
-    <color name="purple_700">#FF3700B3</color>
-    <color name="teal_200">#FF03DAC5</color>
+    <color name="background">#FFA8D5B5</color>
+    <color name="name_text">#FF0D3B2E</color>
+    <color name="role_text">#FF1E5C45</color>
+    <color name="contact_text">#FF145C40</color>
+    <color name="icon_tint">#FF1B6B45</color>
+    <color name="avatar_circle">#FFF4FBF7</color>
+    <color name="avatar_figure">#FF0B3A2E</color>
+    <color name="status_bar_scrim">#FFA8D5B5</color>
 </resources>

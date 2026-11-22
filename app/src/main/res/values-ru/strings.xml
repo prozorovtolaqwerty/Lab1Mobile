@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Визитка</string>
+    <string name="full_name">Прозоров Анатолий</string>
+    <string name="role">Студент, группа Б23–191-3</string>
+    <string name="email">prozorovtolaqwerty@gmail.com</string>
+    <string name="phone">+7 900 000-00-00</string>
+    <string name="avatar_description">Аватар</string>
+</resources>
